@@ -12,6 +12,7 @@ brew "tree"
 brew "wget"
 brew 'mas'
 brew 'comopser'
+brew 'nvm'
 
 cask "discord"
 cask "docker"
