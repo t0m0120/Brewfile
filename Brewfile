@@ -10,8 +10,8 @@ brew "git"
 
 brew "tree"
 brew "wget"
-brew "yarn"
 brew 'mas'
+brew 'comopser'
 
 cask "discord"
 cask "docker"
