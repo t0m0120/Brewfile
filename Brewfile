@@ -13,6 +13,9 @@ brew "wget"
 brew 'mas'
 brew 'comopser'
 brew 'nvm'
+brew 'zsh'
+brew 'zsh-completions'
+brew 'rbenv'
 
 cask "discord"
 cask "docker"
