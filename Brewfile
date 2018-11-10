@@ -15,6 +15,7 @@ brew 'comopser'
 brew 'nvm'
 brew 'zsh'
 brew 'zsh-completions'
+brew 'tmux'
 brew 'rbenv'
 
 cask "discord"
