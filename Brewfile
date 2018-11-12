@@ -11,7 +11,7 @@ brew "git"
 brew "tree"
 brew "wget"
 brew 'mas'
-brew 'comopser'
+brew 'composer'
 brew 'nvm'
 brew 'zsh'
 brew 'zsh-completions'
