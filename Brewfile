@@ -27,5 +27,7 @@ cask "visual-studio-code"
 cask "react-native-debugger"
 cask "figma"
 cask "fork"
+cask "reactotron"
+
 
 mas 'Slack', id: 803453959
