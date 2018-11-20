@@ -28,6 +28,6 @@ cask "react-native-debugger"
 cask "figma"
 cask "fork"
 cask "reactotron"
-
+cask "karabiner-elements"
 
 mas 'Slack', id: 803453959
