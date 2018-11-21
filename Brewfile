@@ -29,5 +29,7 @@ cask "figma"
 cask "fork"
 cask "reactotron"
 cask "karabiner-elements"
+cask "java8"
+cask "android-studio"
 
 mas 'Slack', id: 803453959
