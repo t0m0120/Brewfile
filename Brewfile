@@ -7,7 +7,7 @@ tap "homebrew/core"
 
 # Other Homebrew packages
 brew "git"
-
+brew "hub"
 brew "tree"
 brew "wget"
 brew 'mas'
