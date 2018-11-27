@@ -13,6 +13,7 @@ brew "wget"
 brew 'mas'
 brew 'composer'
 brew 'nvm'
+brew 'watchman'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'tmux'
