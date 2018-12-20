@@ -32,5 +32,6 @@ cask "reactotron"
 cask "karabiner-elements"
 cask "java8"
 cask "android-studio"
+cask "google-cloud-sdk"
 
 mas 'Slack', id: 803453959
