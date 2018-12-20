@@ -14,3 +14,11 @@ curl -L https://raw.githubusercontent.com/t0m0120/Brewfile/master/Brewfile > ./B
 # インストール
 brew bundle
 ```
+
+gcc
+```
+.zshrc add
+    source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.zsh.inc'
+    source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc'
+
+```
