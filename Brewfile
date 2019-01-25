@@ -33,5 +33,6 @@ cask "karabiner-elements"
 cask "java8"
 cask "android-studio"
 cask "google-cloud-sdk"
+cask "gyazo"
 
 mas 'Slack', id: 803453959
