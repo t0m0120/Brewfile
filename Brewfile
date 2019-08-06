@@ -34,5 +34,6 @@ cask "java8"
 cask "android-studio"
 cask "google-cloud-sdk"
 cask "gyazo"
+cask "fastlane"
 
 mas 'Slack', id: 803453959
