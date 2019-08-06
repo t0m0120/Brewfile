@@ -1,4 +1,4 @@
-# Brewfile for @koni
+# Brewfile for @t0m0120
 
 ## 利用方法
 
