@@ -18,6 +18,8 @@ brew 'zsh'
 brew 'zsh-completions'
 brew 'tmux'
 brew 'rbenv'
+brew 'go'
+brew 'bitrise'
 
 cask "discord"
 cask "docker"
@@ -36,6 +38,7 @@ cask "google-cloud-sdk"
 cask "gyazo"
 cask "fastlane"
 cask "google-japanese-ime"
+
 
 mas 'Slack', id: 803453959
 mas 'Microsoft To Do', id: 127445053
