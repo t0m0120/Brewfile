@@ -10,6 +10,8 @@
 
 # M1Mac
 export PATH=/opt/homebrew/bin:$PATH
+sudo softwareupdate --install-rosetta
+
 
 # このファイルをDL
 curl -L https://raw.githubusercontent.com/t0m0120/Brewfile/master/Brewfile > ./Brewfile
