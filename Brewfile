@@ -30,7 +30,6 @@ cask "visual-studio-code"
 cask "react-native-debugger"
 cask "figma"
 cask "fork"
-cask "reactotron"
 cask "karabiner-elements"
 cask "adoptopenjdk/openjdk/adoptopenjdk8"
 cask "android-studio"
@@ -38,7 +37,7 @@ cask "google-cloud-sdk"
 cask "gyazo"
 cask "fastlane"
 cask "google-japanese-ime"
-
+cask "tableplus"
 
 mas 'Slack', id: 803453959
 mas 'Microsoft To Do', id: 127445053
