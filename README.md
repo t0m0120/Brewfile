@@ -8,6 +8,9 @@
 # homebrew をインストール
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+# M1Mac
+export PATH=/opt/homebrew/bin:$PATH
+
 # このファイルをDL
 curl -L https://raw.githubusercontent.com/t0m0120/Brewfile/master/Brewfile > ./Brewfile
 
