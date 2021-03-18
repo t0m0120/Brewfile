@@ -38,6 +38,6 @@ cask "gyazo"
 cask "fastlane"
 cask "google-japanese-ime"
 cask "tableplus"
+cask "slack"
 
-mas 'Slack', id: 803453959
 mas 'Microsoft To Do', id: 127445053
