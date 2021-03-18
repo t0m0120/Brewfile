@@ -6,7 +6,7 @@
 ```bash
 
 # homebrew をインストール
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # このファイルをDL
 curl -L https://raw.githubusercontent.com/t0m0120/Brewfile/master/Brewfile > ./Brewfile
