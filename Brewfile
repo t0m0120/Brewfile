@@ -20,6 +20,7 @@ brew 'tmux'
 brew 'rbenv'
 brew 'go'
 brew 'bitrise'
+brew 'gh'
 
 cask "discord"
 cask "docker"
