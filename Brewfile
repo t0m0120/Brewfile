@@ -1,22 +1,21 @@
-## caskroom/cask
+# Brewfile
 
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
-tap "homebrew/core"
 
-# Other Homebrew packages
+# CLI
 brew "git"
 brew "wget"
-brew 'nvm'
-brew 'watchman'
-brew 'zsh'
-brew 'zsh-completions'
-brew 'tmux'
-brew 'rbenv'
-brew 'go'
-brew 'bitrise'
+brew "watchman"
 
+# Node.js
+brew "nvm"
+
+# Terminal補完
+brew "zsh-completions"
+
+# GUI Apps
 cask "discord"
 cask "docker"
 cask "google-chrome"
