@@ -1,9 +1,3 @@
-# Brewfile
-
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-versions"
-
 # CLI
 brew "git"
 brew "wget"
