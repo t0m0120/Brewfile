@@ -7,11 +7,7 @@ tap "homebrew/core"
 
 # Other Homebrew packages
 brew "git"
-brew "hub"
-brew "tree"
 brew "wget"
-brew 'mas'
-brew 'composer'
 brew 'nvm'
 brew 'watchman'
 brew 'zsh'
@@ -20,26 +16,13 @@ brew 'tmux'
 brew 'rbenv'
 brew 'go'
 brew 'bitrise'
-brew 'gh'
 
 cask "discord"
 cask "docker"
 cask "google-chrome"
-cask "sequel-pro"
-cask "firefox"
 cask "visual-studio-code"
-cask "react-native-debugger"
 cask "figma"
-cask "fork"
 cask "karabiner-elements"
-cask "adoptopenjdk/openjdk/adoptopenjdk11"
 cask "android-studio"
-cask "google-cloud-sdk"
-cask "google-japanese-ime"
-cask "gyazo"
-cask "fastlane"
 cask "google-japanese-ime"
 cask "tableplus"
-cask "slack"
-
-mas 'Microsoft To Do', id: 127445053
